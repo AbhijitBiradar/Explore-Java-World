@@ -17,7 +17,5 @@ public class NumberAddition {
 		int sum=firstNumber+secondNumber;
 		
 		System.out.println("Sum of given two number :"+ sum);
-
 	}
-
 }

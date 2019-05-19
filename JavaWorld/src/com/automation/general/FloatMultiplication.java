@@ -17,7 +17,5 @@ public class FloatMultiplication {
 		float multiplication=firstNumber*secondNumber;
 		
 		System.out.println("Multiplication of given Number :"+ multiplication);
-
 	}
-
 }
